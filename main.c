@@ -1,3 +1,4 @@
 Init GPIO
 Init TIMER
+Init PWM
 Init GPIO1
